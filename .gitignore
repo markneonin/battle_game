@@ -1,0 +1,9 @@
+/venv/
+config.ini
+__pycache__
+docs
+/.idea/
+/log/app.log
+.gitattributes
+/admin.py
+/.pytest_cache/
