@@ -7,3 +7,6 @@ docs
 .gitattributes
 /admin.py
 /.pytest_cache/
+/battle_game_sample/
+
+
